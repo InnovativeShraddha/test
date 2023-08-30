@@ -1,0 +1,3 @@
+Name: Shraddha 
+Skills: Git,Python,Docker,Jenkins,Linux,K8s
+Email: shraddhagard519@gmail.com
